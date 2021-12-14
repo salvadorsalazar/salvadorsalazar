@@ -1,7 +1,7 @@
 # SalvadorSalazar
 
 Hello, I'm Salvador! 👋
-I am a Junior Web Developer in San Anronio , Texas.
+I am a Junior Web Developer in San Antonio , Texas.
 
 📕 Skills:  Javascript, HTML, CSS, Bootstrap, JQuery, Java, MySQL, Apache, and Spring Boot.
 
