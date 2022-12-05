@@ -3,8 +3,8 @@
 Hello, I'm Salvador! 👋
 I am a Junior Web Developer in San Antonio , Texas.
 
-📕 Skills:  Javascript, HTML, CSS, Bootstrap, JQuery, Java, MySQL,  and Spring Boot.
-Exposure to : React.js , Angular , C++ , C# , PHP , AWS ,Python
+📕 Skills:  Javascript, HTML, CSS, Bootstrap, JQuery, Java, MySQL, React.js, PHP Laravel and Spring Boot.
+Exposure to :  Angular , C++ , C# ,  AWS ,Python
 
 Website Portfolio: www.SalvadorSalazar.com
 
